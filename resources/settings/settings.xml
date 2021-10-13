@@ -1,0 +1,5 @@
+<settings>
+    <setting propertyKey="@Properties.api_key" title="@Strings.setting_api_key_title">
+        <settingConfig type="alphaNumeric" required="true" />
+    </setting>
+</settings>
